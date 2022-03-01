@@ -36,7 +36,6 @@
 <p align="center">
   <a href="https://www.instagram.com/hyeon_0113/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeon_0113/"/></a>
   <a href="mailto:sheril0284@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=sheril0284@gmail.com"/></a>
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=000000"/></a>&nbsp
   <a href="https://velog.io/@hayeon"><img src="https://img.shields.io/badge/velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hayeon"/></a>
   <a href="https://github.com/LeeHa-Yeon"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>&nbsp</a>
