@@ -10,34 +10,14 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHa-Yeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
   
-<h3> 🛠 Skills 🛠 </h3>
 <h4>Platforms & Languages</h4>
 <hr>
 <p>
   <img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></a>&nbsp
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JSON-black?style=flat-square&logo=JSON%20web%20tokens"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"/></a>&nbsp
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 <h4>Tools</h4>
@@ -50,7 +30,6 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
 </p>
-<br>
 <br>
 
 <h3 align="center"> 👀 Hayeon Lee 👀 </h3>
